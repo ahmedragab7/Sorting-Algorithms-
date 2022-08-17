@@ -1,6 +1,7 @@
 # Sorting-Algorithms-
 This Repository contains number of Sorting algorithms 
-# The first technique is :Selection Sort Algorithm
+#1- Selection Sort Algorithm
 ![image](https://user-images.githubusercontent.com/40636325/185078856-54374512-429d-4d4b-a84f-5efb445f48db.png)
-
+#2- Bubble Sort Algorithm
+![image](https://user-images.githubusercontent.com/40636325/185079213-0901f88a-1920-41bd-84f1-56f3d76b36b1.png)
 
